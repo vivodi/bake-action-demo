@@ -1,4 +1,4 @@
-FlexGet
+FlexGet0
 =======
 .. image:: https://github.com/Flexget/Flexget/actions/workflows/test.yml/badge.svg?branch=develop
     :target: https://github.com/Flexget/Flexget/actions/workflows/test.yml?query=branch%3Adevelop
